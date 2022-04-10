@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "AVR",
+            "includePath": [
+                "D:/Program Files/Arduino/**"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "D:/Program Files/Arduino/hardware/tools/avr/bin/avr-gcc.exe",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++11",
+            "intelliSenseMode": "${default}"
+        }
+    ],
+    "version": 4
+}
